@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "resource\pagamento\\": "src/"
+            "resource\\pagamento\\": "src/"
         }
     }
 }
