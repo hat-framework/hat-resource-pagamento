@@ -1,0 +1,26 @@
+{
+    "name": "hatframework/resources/pagamento",
+    "type": "library",
+    "description": "",
+    "keywords": [],
+    "homepage": "https://github.com/hat-framework/resources/pagamento",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thompson Filgueiras",
+            "email": "thom@hat-framework.org",
+            "homepage": "http://hat-framework.org",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*",
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "resource\pagamento\\": "src/"
+        }
+    }
+}
