@@ -1,9 +1,9 @@
 {
-    "name": "hatframework/resources/pagamento",
+    "name": "hatframework/hat-resource-pagamento",
     "type": "library",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/hat-framework/resources/pagamento",
+    "homepage": "https://github.com/hat-framework/hat-resource-pagamento",
     "license": "MIT",
     "authors": [
         {
